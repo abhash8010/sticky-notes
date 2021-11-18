@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/note/static/css/main.6a16c92c.chunk.css",
-    "main.js": "/note/static/js/main.22049937.chunk.js",
-    "main.js.map": "/note/static/js/main.22049937.chunk.js.map",
-    "runtime-main.js": "/note/static/js/runtime-main.b834e5d6.js",
-    "runtime-main.js.map": "/note/static/js/runtime-main.b834e5d6.js.map",
-    "static/js/2.eb5b1abb.chunk.js": "/note/static/js/2.eb5b1abb.chunk.js",
-    "static/js/2.eb5b1abb.chunk.js.map": "/note/static/js/2.eb5b1abb.chunk.js.map",
-    "index.html": "/note/index.html",
-    "static/css/main.6a16c92c.chunk.css.map": "/note/static/css/main.6a16c92c.chunk.css.map",
-    "static/js/2.eb5b1abb.chunk.js.LICENSE.txt": "/note/static/js/2.eb5b1abb.chunk.js.LICENSE.txt"
+    "main.css": "/sticky-notes/static/css/main.6a16c92c.chunk.css",
+    "main.js": "/sticky-notes/static/js/main.22049937.chunk.js",
+    "main.js.map": "/sticky-notes/static/js/main.22049937.chunk.js.map",
+    "runtime-main.js": "/sticky-notes/static/js/runtime-main.37c313ef.js",
+    "runtime-main.js.map": "/sticky-notes/static/js/runtime-main.37c313ef.js.map",
+    "static/js/2.eb5b1abb.chunk.js": "/sticky-notes/static/js/2.eb5b1abb.chunk.js",
+    "static/js/2.eb5b1abb.chunk.js.map": "/sticky-notes/static/js/2.eb5b1abb.chunk.js.map",
+    "index.html": "/sticky-notes/index.html",
+    "static/css/main.6a16c92c.chunk.css.map": "/sticky-notes/static/css/main.6a16c92c.chunk.css.map",
+    "static/js/2.eb5b1abb.chunk.js.LICENSE.txt": "/sticky-notes/static/js/2.eb5b1abb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b834e5d6.js",
+    "static/js/runtime-main.37c313ef.js",
     "static/js/2.eb5b1abb.chunk.js",
     "static/css/main.6a16c92c.chunk.css",
     "static/js/main.22049937.chunk.js"
